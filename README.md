@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hey there, I'm Sajal Rajhans!
 
-<!--
-**sajalrajhans1/sajalrajhans1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering student at **JSSATE, Bengaluru**  
+💻 Exploring **Web Development** and **App Development**  
+🎯 Working on strengthening my **DSA fundamentals**  
+🛠️ Planning to transition into full-stack with **Node.js** soon
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack & Skills
+- **Languages:** C++, C#, JavaScript  
+- **Web:** HTML, CSS  
+- **Game Development:** Unity  
+- **Creative Tools:** Adobe Premiere Pro, Adobe After Effects
+
+---
+
+### 🚀 What I'm Learning
+- React ⚛️ (Next: React Native 📱)
+
+---
+
+### 🎵 Hobbies & Interests
+- Rap music enthusiast  
+- Admire **Shanks** & **Sanji** from One Piece 🏴‍☠️
+- I am in the **top ~1.9%** of players in Valorant worldwide. 
+
+---
+
+### 🌐 Connect With Me
+- Instagram: **@sajalrajhans**
+- Email: **sajalrajhans@gmail.com**
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+
+![Sajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajalrajhans1&show_icons=true&theme=tokyonight&hide_border=true)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajalrajhans1&layout=compact&theme=tokyonight&hide_border=true)
+  
+![Streak Stats](https://streak-stats.demolab.com?user=sajalrajhans1&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+**Thanks for stopping by.**
+
