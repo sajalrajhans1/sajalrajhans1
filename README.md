@@ -8,7 +8,7 @@
 ---
 
 ### 🔧 Tech Stack & Skills
-- **Languages:** C++, C#, JavaScript  
+- **Languages:** C++, C#, JavaScript, Python
 - **Web:** HTML, CSS  
 - **Game Development:** Unity  
 - **Creative Tools:** Adobe Premiere Pro, Adobe After Effects
