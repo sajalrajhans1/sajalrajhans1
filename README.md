@@ -8,15 +8,23 @@
 ---
 
 ### 🔧 Tech Stack & Skills
-- **Languages:** C++, C#, JavaScript, Python
-- **Web:** HTML, CSS  
-- **Game Development:** Unity  
-- **Creative Tools:** Adobe Premiere Pro, Adobe After Effects
+**Languages**
+- C++, JavaScript, TypeScript, Python, C#
 
----
+**Mobile & Web**
+- React Native (Expo & React Native CLI)
+- Basic React
+- HTML, CSS
 
-### 🚀 What I'm Learning
-- React ⚛️ (Next: React Native 📱)
+**Backend & Data**
+- Convex (BaaS – auth, database, and APIs for React Native)
+- JSON, basic REST concepts
+
+**Tools & Platforms**
+- Git & GitHub
+- Android Studio, Xcode (through React Native projects)
+- Expo CLI, EAS
+- VS Code
 
 ---
 
