@@ -1,6 +1,5 @@
 # 👋 Hey there, I'm Sajal Rajhans!
 
-🎓 Electronics and Communication Engineering student at **JSSATE, Bengaluru**  
 💻 Exploring **Web Development** and **App Development**  
 🎯 Working on strengthening my **DSA fundamentals**  
 🛠️ Planning to transition into full-stack with **Node.js** soon
