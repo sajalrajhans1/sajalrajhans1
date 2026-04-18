@@ -1,8 +1,7 @@
 # 👋 Hey there, I'm Sajal Rajhans!
 
 💻 Exploring **Web Development** and **App Development**  
-🎯 Working on strengthening my **DSA fundamentals**  
-🛠️ Planning to transition into full-stack with **Node.js** soon
+🎯 Working on strengthening my **DSA**  
 
 ---
 
