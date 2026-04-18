@@ -11,19 +11,30 @@
 - C++, JavaScript, TypeScript, Python, C#
 
 **Mobile & Web**
-- React Native (Expo & React Native CLI)
-- Basic React
-- HTML, CSS
+- React Native (Expo & CLI)
+- React.js (Hooks, Context API, component architecture)
+- Next.js (SSR, routing, performance optimization)
+- TypeScript-first development
+- Tailwind CSS / NativeWind (responsive UI systems)
+- Zustand / Redux (state management)
+- REST API integration & async data handling
+- Firebase / Supabase (auth, realtime data, storage)
+- Responsive & cross-platform UI/UX design principles
 
 **Backend & Data**
 - Convex (BaaS – auth, database, and APIs for React Native)
-- JSON, basic REST concepts
+- JSON, REST concepts
 
 **Tools & Platforms**
-- Git & GitHub
-- Android Studio, Xcode (through React Native projects)
-- Expo CLI, EAS
-- VS Code
+- Git & GitHub (version control, PR workflow)
+- VS Code (extensions, debugging, dev containers)
+- Postman (API testing & debugging)
+- Vercel / Netlify (frontend deployment & CI/CD)
+- Firebase Console / Supabase Dashboard
+- Expo CLI & EAS (builds, OTA updates)
+- Android Studio & Xcode (emulators, debugging)
+- Chrome DevTools (performance, network, profiling)
+- Figma (UI inspection, design-to-code workflow)
 
 ---
 
